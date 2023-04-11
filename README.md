@@ -1,4 +1,4 @@
-# Code Challenge - Senior Developer 
+# Code Challenge
 
 ### Laravel API Rest VueJS SPA  [Dificultad: Baja]
 
